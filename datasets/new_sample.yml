@@ -1,0 +1,9 @@
+db_server:
+- 192.168.10.7
+users:
+  gnu: abc123
+  joongyang: '12345'
+  park: abcde
+web_server:
+- 192.168.0.2
+- 192.168.0.3
